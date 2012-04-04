@@ -1,9 +1,11 @@
 # README
 
 I added a simple model called Post that has state_machine behaviour. The only gem (other than
-the standard Rails ones I've added is the state_machine one and I've ensured that it's the
-latest release. I've also added a Test::Unit class with three tests that show the behaviour
-in question.
+the standard Rails ones) I've added is the state_machine one, and I've ensured that it's the
+latest release.
+
+I've also added a Test::Unit class with three tests that show the behaviour
+in question: -
 
 1. The first test shows that the initial state is not being set
 
